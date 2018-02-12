@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - thumbs
+  - indexFinger
+  - midFinger
+  - ringFinger
+  - littleFinger
+  - fingertips
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - myLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: first
+    uniqueID: 1427788639
+    locked: 0
+  - name: second
+    uniqueID: 2355434711
+    locked: 0
+  - name: third
+    uniqueID: 4212574101
+    locked: 0
+  - name: forth
+    uniqueID: 3840811437
+    locked: 0
